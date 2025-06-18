@@ -5,6 +5,6 @@
 ![](https://img.shields.io/github/stars/yashbhalgat?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ysbhalgat?style=social)
 
-Currently a Ph.D. student working with the [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/) at Univeristy of Oxford. Research focus: **3D Computer Vision** and **Machine Learning**. 
+Currently a Ph.D. student working with the [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/) at Univeristy of Oxford. Research interests: **3D Generation and Undetstanding**, **Video Generation**, **World Modeling**. 
 
 If you have any questions about my projects, please feel free to [send me an email](mailto:yashsb@robots.ox.ac.uk) or [setup a meeting with me](https://yashbhalgat.github.io/#office-hours).
